@@ -151,7 +151,7 @@ nav a {
 
 .hero .image-container {
     flex-basis: 40%;
-    min-width: 350px;
+    min-width: 300px;
 }
 
 .hero .cta {
@@ -198,7 +198,7 @@ nav a {
 
 .concept .image-container {
    flex-basis: 40%;
-   min-width: 350px;
+   min-width: 300px;
 }
 
 /* Process Section */
@@ -258,7 +258,7 @@ nav a {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    min-width: 320px;
+    min-width: 300px;
     border: 2px solid #FFBC74;
     border-radius: 20px;
     min-height: 40px;
@@ -297,7 +297,7 @@ nav a {
     display: flex;
     flex-flow: column wrap;
     width: 40%;
-    min-width: 320px;
+    min-width: 300px;
     align-items: flex-start;
     justify-content: center;
     padding: 2% 5%;
@@ -305,7 +305,7 @@ nav a {
 
 .security .image-container {
     flex-basis: 40%;
-    min-width: 350px;
+    min-width: 300px;
 }
 
 /* Blog Section */
